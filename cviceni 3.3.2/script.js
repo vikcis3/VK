@@ -6,4 +6,4 @@ let userName2Age = 69;
 
 let userNameAgeTotal = userNameAge + userName2Age;
 
-console.log("Součet věku lidí " + userName " a " + userName2 + " je " + userNameAgeTotal);
+console.log("Součet věku lidí " + userName + " a " + userName2 + " je " + userNameAgeTotal);
