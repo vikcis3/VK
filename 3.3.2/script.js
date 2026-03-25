@@ -56,4 +56,6 @@ number %= 3;
 number ++;
 number --;
 
-console.log(number)
+console.log(number);
+
+
